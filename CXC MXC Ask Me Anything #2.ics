@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Central Standard Time (Mexico)
+BEGIN:STANDARD
+DTSTART:16011028T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010401T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="group.gerramir(mailer list)";RSVP=FALSE:mailto:group.gerramir@
+	cisco.com
+ATTENDEE;CN="group.mlozano(mailer list)";RSVP=FALSE:mailto:group.mlozano@ci
+	sco.com
+ATTENDEE;CN="group.yagomez(mailer list)";RSVP=FALSE:mailto:group.yagomez@ci
+	sco.com
+ATTENDEE;CN="group.ipaes(mailer list)";RSVP=FALSE:mailto:group.ipaes@cisco.
+	com
+ATTENDEE;CN="group.joseluia(mailer list)";RSVP=FALSE:mailto:group.joseluia@
+	cisco.com
+ATTENDEE;CN="group.joselmar(mailer list)";RSVP=FALSE:mailto:group.joselmar@
+	cisco.com
+ATTENDEE;CN="Hector Acevedo (hacevedo)";RSVP=FALSE:mailto:hacevedo@cisco.co
+	m
+ATTENDEE;CN="Marifell Alfaro (maralfar)";RSVP=FALSE:mailto:maralfar@cisco.c
+	om
+ATTENDEE;CN="group.rseptien(mailer list)";RSVP=FALSE:mailto:group.rseptien@
+	cisco.com
+CLASS:PUBLIC
+CREATED:20220510T105504Z
+DESCRIPTION:Hello Team\, \nyou are invited to make all the questions regard
+	ing return to office and Hybrid model for CX Centers Mexico.\nYou can acce
+	ss more information in our sharepoint <https://cisco.sharepoint.com/sites/
+	CXCentersMexico/SitePages/CXC-MXC-Return-to-Office.aspx> \, make additiona
+	l questions in this form <https://forms.office.com/r/m0X0BgRvJL>  \n\nOr c
+	ontact the MXC RTO Team in this email mxc_rto@cisco.com <mailto:mxc_rto@ci
+	sco.com> \n\n \n\nWe look forward to seeing you there!\n\nBest regards\,\n
+	\nMXC RTO team\n\n \n\n \n\nWebinar topic:\n\nMXC RTO Ask Me Anything #2\n
+	\n \n\nDate and time:\n\nFriday\, May 20\, 2022 3:00 pm | (UTC-05:00) Guad
+	alajara\, Mexico City\, Monterrey\n\n \n\nJoin link:\n\nhttps://cisco.webe
+	x.com/cisco/j.php?MTID=m89b85ef32cfc3027e85cde228f4ec12e <https://cisco.we
+	bex.com/cisco/j.php?MTID=m89b85ef32cfc3027e85cde228f4ec12e> \n\n \n\nWebin
+	ar number:\n\n2571 383 6777\n\n \n\nWebinar password: \n\nxpTpP6jhf36 (978
+	77654 from phones)\n\n \n\nJoin by phone\n\n+1-408-525-6800 Call-in toll n
+	umber (US/Canada)\n\n \n\nAccess code: 257 138 36777\n\n
+DTEND;TZID="Central Standard Time (Mexico)":20220520T160000
+DTSTAMP:20220509T221416Z
+DTSTART;TZID="Central Standard Time (Mexico)":20220520T150000
+LAST-MODIFIED:20220510T105504Z
+LOCATION:Webinar
+ORGANIZER;CN="Luisa Fernanda Cabrera (lucabrer)":mailto:lucabrer@cisco.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=es-mx:CXC MXC Ask Me Anything #2
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000000881A12C763D801000000000000000
+	010000000708C117E8DF2124B83A5AC37DFF5E7A1
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.Mso
+	Normal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans-
+	serif\;\n	mso-fareast-language:EN-US\;}\na:link\, span.MsoHyperlink\n	{mso
+	-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\nspa
+	n.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-family:"Calibri
+	"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:ex
+	port-only\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-fareast-language:E
+	N-US\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:70.85pt 3.0
+	cm 70.85pt 3.0cm\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style>
+	<!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\
+	n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\
+	n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></he
+	ad><body lang=ES-MX link="#0563C1" vlink="#954F72" style='word-wrap:break-
+	word'><div class=WordSection1><p class=MsoNormal><span lang=EN-US>Hello Te
+	am\, <br>you are invited to make all the questions regarding return to off
+	ice and Hybrid model for CX Centers Mexico.<br>You can access more informa
+	tion in <a href="https://cisco.sharepoint.com/sites/CXCentersMexico/SitePa
+	ges/CXC-MXC-Return-to-Office.aspx">our sharepoint</a>\, make additional qu
+	estions <a href="https://forms.office.com/r/m0X0BgRvJL">in this form</a> <
+	o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US>Or contact the MX
+	C RTO Team in this email </span><span lang=PT-BR><a href="mailto:mxc_rto@c
+	isco.com"><span lang=EN-US>mxc_rto@cisco.com</span></a></span><span lang=E
+	N-US><o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp\
+	;</o:p></span></p><p class=MsoNormal><span lang=EN-US>We look forward to s
+	eeing you there!<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US>
+	Best regards\,<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US>MX
+	C RTO team<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&
+	nbsp\;</o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp\;</o
+	:p></span></p><p class=MsoNormal><span lang=EN-US>Webinar topic:<o:p></o:p
+	></span></p><p class=MsoNormal><span lang=EN-US>MXC RTO Ask Me Anything #2
+	<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp\;</o:
+	p></span></p><p class=MsoNormal><span lang=EN-US>Date and time:<o:p></o:p>
+	</span></p><p class=MsoNormal><span lang=EN-US>Friday\, May 20\, 2022 3:00
+	 pm | (UTC-05:00) Guadalajara\, Mexico City\, Monterrey<o:p></o:p></span><
+	/p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp\;</o:p></span></p><p cla
+	ss=MsoNormal><span lang=EN-US>Join link:<o:p></o:p></span></p><p class=Mso
+	Normal><a href="https://cisco.webex.com/cisco/j.php?MTID=m89b85ef32cfc3027
+	e85cde228f4ec12e"><span lang=EN-US>https://cisco.webex.com/cisco/j.php?MTI
+	D=m89b85ef32cfc3027e85cde228f4ec12e</span></a><span lang=EN-US><o:p></o:p>
+	</span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp\;</o:p></span></
+	p><p class=MsoNormal><span lang=EN-US>Webinar number:<o:p></o:p></span></p
+	><p class=MsoNormal><span lang=EN-US>2571 383 6777<o:p></o:p></span></p><p
+	 class=MsoNormal><span lang=EN-US><o:p>&nbsp\;</o:p></span></p><p class=Ms
+	oNormal><span lang=EN-US>Webinar password: <o:p></o:p></span></p><p class=
+	MsoNormal><span lang=EN-US>xpTpP6jhf36 (97877654 from phones)<o:p></o:p></
+	span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp\;</o:p></span></p>
+	<p class=MsoNormal><span lang=EN-US>Join by phone<o:p></o:p></span></p><p 
+	class=MsoNormal><span lang=EN-US>+1-408-525-6800 Call-in toll number (US/C
+	anada)<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp
+	\;</o:p></span></p><p class=MsoNormal>Access code: 257 138 36777<o:p></o:p
+	></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MS-OLK-APPTSEQTIME:20220509T221416Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
